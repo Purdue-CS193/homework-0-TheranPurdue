@@ -1,3 +1,17 @@
+# Heran's First CS193 Homework
+
+## Things I like about CS 193:
+- Class led by students
+- We learn about frequently used tools in programming
+- No exams!!!
+
+**Code Block Test???**
+```
+  public static void main(string[] args) {
+      //hi
+  }
+```
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
